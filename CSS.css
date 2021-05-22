@@ -48,6 +48,7 @@
   html
   {
       background-color: aliceblue;
+      align-content: center;
   }
   .end{
       width:990px;
