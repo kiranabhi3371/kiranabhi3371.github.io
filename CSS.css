@@ -9,18 +9,27 @@
 }
 
 .WTF{
-    width: 750px;
-    margin-left:250px;
-    margin-right:290px;
-    background-color: aliceblue;
+    width:750px;
+    margin-left:150px;
+    margin-right:70px;
+    background-color:aliceblue;
+    padding: 20px 130px 0px 130px;
+    font-style:normal;
+    font-size: 20px;
+    
 }
 .WTF img{
     float:left;
     padding-right:10px;
+    
 }
+
 .nxtorprev{
-    margin:0px 250px 0px 290px;
+    margin:-40px 70px 0px 150px;
     width:750px;
+    background-color:aliceblue;
+    padding: 100px 130px 50px 130px;
+    
 }
 .nxtorprev a{
     
@@ -49,13 +58,28 @@
   {
       background-color: aliceblue;
       align-content: center;
-      height: 2500px;
+      
   }
   .end{
       width:990px;
-      padding: 0.5px;
+    padding: 0.5px;
     margin:0px 150px 0px 150px;
     background-color:black;
     color: white;
     display: block;
+  }
+  .end1{
+    width:990px;
+  padding: 0.5px; 
+  margin:500px 150px 0px 150px;
+  
+  background-color:black;
+  color: white;
+  display: block;
+}
+ 
+  html{
+    background-image: url(thomas-charters-zAi2Is48-MA-unsplash.jpg);
+    background-size: 1500px 800px;
+    background-repeat:repeat;
   }
