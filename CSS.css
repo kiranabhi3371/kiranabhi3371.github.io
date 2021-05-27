@@ -5,6 +5,7 @@
     height:5px;
     padding:130px;
     margin-left:150px;
+    margin-top:-150px;
     
 }
 
@@ -12,7 +13,7 @@
     width:750px;
     margin-left:150px;
     margin-right:70px;
-    background-color:aliceblue;
+    background-color:#DADCE0;
     padding: 20px 130px 0px 130px;
     font-style:normal;
     font-size: 20px;
@@ -27,7 +28,7 @@
 .nxtorprev{
     margin:-40px 70px 0px 150px;
     width:750px;
-    background-color:aliceblue;
+    background-color:#DADCE0;
     padding: 100px 130px 50px 130px;
     
 }
@@ -59,7 +60,7 @@
       width:990px;
     padding: 0.5px;
     margin:0px 150px 0px 150px;
-    background-color:black;
+    background-color:#9fa8a3;
     color: white;
     display: block;
   }
@@ -72,5 +73,19 @@
   color: white;
   display: block;
 }
- 
+#Name{
+  padding-top:30px;
+  padding-left:150px;
   
+} 
+#text{
+  margin-left:150px;
+  
+}
+#button{
+  margin-left:150px;
+}
+#kkk{
+  margin-left:150px;
+  
+}
